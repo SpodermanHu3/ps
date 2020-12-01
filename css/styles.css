@@ -57,6 +57,10 @@ body {
     color: white;
 }
 
+.footer {
+    font-size: 0.8em;
+}
+
 h1 {
     font-size: 4.00rem;
     color: white;
