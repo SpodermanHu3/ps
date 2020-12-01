@@ -1,0 +1,176 @@
+/****** First color pallete and font style ******/
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    background-color: rgb(158, 75, 75);
+}
+
+.btn {
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    border-radius: 15%;
+    background-color: red;
+    color: black;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+.btn:hover {
+    background-color: rgb(184, 0, 0);
+    color: white;
+}
+
+.bottom-container {
+    background-color: rgb(66, 0, 0);
+    padding: 10px;
+}
+
+.cld1 {
+    opacity: 80%;
+    height: 50px;
+    width: 250px;
+    position: unset;
+    top: 100px;
+}
+
+.cld2 {
+    opacity: 80%; 
+    position: unset;
+}
+
+.fbtn {
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    border-radius: 15%;
+    background-color: rgb(255, 0, 0);
+    color: black;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+.fbtn:hover {
+    background-color: rgb(184, 0, 0);
+    color: white;
+}
+
+h1 {
+    font-size: 4.00rem;
+    color: white;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: white;
+    margin-top: 0;
+}
+
+h3 {
+    color: white;
+    margin-top: 0;
+}
+
+hr {
+    border-style: dotted;
+    border-width: 5px 0 0 0;
+    border-color: rgb(255, 123, 123);
+    width: 5%;
+}
+
+.ico {
+    width: 250px;
+    height: 250px;
+    border width: 40px;
+    border-radius: 10%;
+    background-color: red;
+}
+
+.ico:hover {
+    background-color: rgb(184, 0, 0);
+}
+
+.mail-me {
+    text-align: center;
+    margin: 50px auto 50px auto;
+}
+
+.middle-container {
+    background-color: rgb(66, 0, 0);
+    padding: 10px;
+}
+
+.mntn {
+    position: absolute;
+    top: 277px;
+    left: 300px;
+}
+
+.mntn1 {
+    position: absolute;
+    top: 457px;
+    width: 462px;
+    height: 195px;
+    left: -60px;
+}
+
+.mntn2 {
+    position: absolute;
+    top: 350px;
+    left: 844px;
+    width: 403px;
+    height: 294px;
+}
+
+.mnt-cont {
+    display: block;
+    height: 290px;
+    text-align: unset;
+
+}
+
+p {
+    color: white;
+    margin-top: 0;
+    
+}
+
+.ph {
+    font-size: 1.50rem;
+}
+
+.pic:hover{
+    background-color: rgb(184, 0, 0);
+    border-color: red;
+}
+
+.pic {
+    background-color: red;
+    height: 250px;
+    width: 150px;
+    border-radius: 100%;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgb(184, 0, 0);
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile {
+    text-align: center;
+    width: 65%;
+    margin: 10px auto 50px auto;
+}
+
+.top-container {
+    padding-top: 50px;
+}
+
+.skill-row {
+    width: 65%;
+    margin: 50px auto 50px auto;
+}
